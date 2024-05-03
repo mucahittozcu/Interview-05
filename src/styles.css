@@ -12,7 +12,8 @@
   gap:10px;
   padding-top: 10px;
 }
-.modal-container{
+.liste{
+  cursor: pointer;
 }
 .modal-container2{
   display: flex;
